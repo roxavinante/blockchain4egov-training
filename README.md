@@ -1,2 +1,2 @@
-# blockchain4egov-training
-code dump for blockchain for egov exercises
+# Blockchain Technology Application in eGovernment
+e-Voting DApp code dump for blockchain exercises
